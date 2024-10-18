@@ -1,0 +1,13 @@
+.display-none{
+    display: none;
+    background-color: red;
+}
+.divBorders{
+    border: 1px solid black;
+    background-color: #cfeadf;
+}
+.commentDiv{
+    border: 1px solid black;
+    background-color: #f6f3f3;
+
+}
